@@ -808,7 +808,7 @@ a,a:focus,a:hover{text-decoration:none;outline:0}
 #menu ul li.item:hover .sub{display:block}
 #menu ul li.item .sub{display:none;position:absolute;background-color:#272727;overflow:hidden;width:600px;top:45px;left:0;z-index:100000;-webkit-box-shadow:0 3px 6px rgba(0,0,0,.3);box-shadow:0 3px 6px rgba(0,0,0,.3)}
 #menu ul li.item .sub li{float:left}
-#menu ul li.item .sub li a{display:block;border:none;color:#B9B9B9;font-size:12px;text-transform:none;font-weight:400;width:145px;padding:0 20px;line-height:40px;transition:color .2s ease-in-out 0s}
+#menu ul li.item .sub li a{display:block;border:none;color:#B9B9B9;font-size:12px;text-transform:none;font-weight:600;width:145px;padding:0 20px;line-height:40px;transition:color .2s ease-in-out 0s}
 #menu ul li.item .sub li a:hover{background-color:#424242;color:#C5C5C5}
 .list-film{margin-left:0;margin-right:0;overflow:hidden}
 .list-film.row{margin-left:-5px;margin-right:-5px}
