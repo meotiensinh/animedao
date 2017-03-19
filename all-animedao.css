@@ -753,7 +753,7 @@ a,a:focus,a:hover{text-decoration:none;outline:0}
 #header{padding-bottom:18px;background:#191919;border-bottom:1px solid rgba(4,4,4,0.63)}
 #header .menu-trigger{margin-left:11px;margin-top:25px;text-align:center;width:100%;cursor:pointer}
 #header .menu-trigger .fa{font-size:30px;color:#45CCFF}
-#header #logo{background:url('http://i.imgur.com/1XCHgtU.png') 0 0 no-repeat;margin-top:5px;margin-bottom:-6px;height:55px;padding:0}
+#header #logo{background:url('http://phim7v.com//default/images/logo.png') 0 0 no-repeat;margin-top:5px;margin-bottom:-6px;height:55px;padding:0}
 #header #logo a{color:#B5B5B5;display:block;font-size:10px;letter-spacing:6px;padding-left:5px;padding-top:30px;text-transform:lowercase}
 #header #search{margin-top:21px;position:relative;box-sizing:border-box}
 #header #search,#header #search .keyword{-webkit-box-sizing:border-box;-khtml-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box}
@@ -806,9 +806,9 @@ a,a:focus,a:hover{text-decoration:none;outline:0}
 #menu ul li.item:hover:before{height:4px;display:block;content:"";width:100%;background:#00729C;top:0;left:0;position:absolute}
 #menu ul li.item:hover a{background-color:#272727;color:rgb(0,136,187)}
 #menu ul li.item:hover .sub{display:block}
-#menu ul li.item .sub{display:none;position:absolute;background-color:#272727;overflow:hidden;width:600px;top:45px;left:0;z-index:100000;-webkit-box-shadow:0 3px 6px rgba(0,0,0,.3);box-shadow:0 3px 6px rgba(0,0,0,.3)}
+#menu ul li.item .sub{display:none;position:absolute;background-color:#272727;overflow:hidden;width:435px;top:45px;left:0;z-index:100000;-webkit-box-shadow:0 3px 6px rgba(0,0,0,.3);box-shadow:0 3px 6px rgba(0,0,0,.3)}
 #menu ul li.item .sub li{float:left}
-#menu ul li.item .sub li a{display:block;border:none;color:#B9B9B9;font-size:12px;text-transform:none;font-weight:600;width:145px;padding:0 20px;line-height:40px;transition:color .2s ease-in-out 0s}
+#menu ul li.item .sub li a{display:block;border:none;color:#B9B9B9;font-size:12px;text-transform:none;font-weight:400;width:145px;padding:0 20px;line-height:40px;transition:color .2s ease-in-out 0s}
 #menu ul li.item .sub li a:hover{background-color:#424242;color:#C5C5C5}
 .list-film{margin-left:0;margin-right:0;overflow:hidden}
 .list-film.row{margin-left:-5px;margin-right:-5px}
@@ -932,7 +932,7 @@ span.page_nav{margin-top:15px;overflow:hidden;clear:both;display:block;text-alig
 .sidebar .list-film-simple .item .info{margin-left:80px}
 dfn.nameen{margin-bottom:10px}
 .sidebar .list-film-simple .item .info .namevn,.sidebar .list-film-simple .item .info dfn{display:block}
-.sidebar .list-film-simple .item .info .namevn{color;#1986A1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font:13px "Open Sans",Arial,sans-serif;font-weight:bold}
+.sidebar .list-film-simple .item .info .namevn{color:#0EB2C5;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font:13px "Open Sans",Arial,sans-serif;font-weight:bold}
 .sidebar .list-film-simple .item .info dfn{color:#ccc;font-style:normal;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .sidebar .list-film-simple .item .info dfn.status{font-weight:700;color:#8DC63F}
 .sidebar .block.active-users .block-title{margin-bottom:5}
@@ -1017,7 +1017,7 @@ span.nameen,span.nameyear{color:#999;font-size:12px;margin:0;font-style:italic}
 .block.media .block-title:after,.block.media .block-title:before{display:none}
 .block.media .block-title .status{float:right;background:#131617;padding:0 20px 0 30px;position:relative;color:#eaab0c}
 .block.media .block-title .status:before{-webkit-transition:all .2s ease-in-out 0s;-khtml-transition:all .2s ease-in-out 0s;-moz-transition:all .2s ease-in-out 0s;-ms-transition:all .2s ease-in-out 0s;-o-transition:all .2s ease-in-out 0s;transition:all .2s ease-in-out 0s;position:absolute;content:"";top:0;z-index:2;width:0;height:0;border-style:solid;left:0;border-width:45px 20px 0 0;border-color:rgba(255,255,255,0.06) transparent transparent}
-.block.media .block-body #abd_mv{width:100%;height:400px;overflow:hidden;background: url('http://phim7v.com/default/images/bg.preload.jpg');}
+.block.media .block-body #abd_mv{width:100%;height:560px;overflow:hidden;background: url('http://phim7v.com/default/images/bg.preload.jpg');}
 .block.media .block-body.miniPlayer #player-area{width:350px!important;height:250px!important;display:block;background:#000}
 .block.media .block-body.miniPlayer{padding-top:395px!important}
 .block.media .block-body.miniPlayer #abd_mv{position:fixed;right:0;top:50px;z-index:2;border:1px solid #000}
